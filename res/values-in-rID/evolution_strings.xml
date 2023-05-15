@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fit_strategy">Sesuaikan strategi</string>
+    <string name="fit_strategy_as_previewed">Seperti yang dipratinjau</string>
+    <string name="fit_strategy_high_quality">Kualitas tinggi</string>
+    <string name="fit_strategy_center">Tengah</string>
+    <string name="fit_strategy_crop">Potong</string>
+    <string name="fit_strategy_stretch">Regang</string>
+    <string name="fit_strategy_texture">Tekstur</string>
+</resources>

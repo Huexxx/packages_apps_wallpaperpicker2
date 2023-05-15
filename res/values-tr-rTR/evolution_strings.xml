@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fit_strategy">Uygun strateji</string>
+    <string name="fit_strategy_as_previewed">Önizleme</string>
+    <string name="fit_strategy_high_quality">Yüksek kalite</string>
+    <string name="fit_strategy_center">Orta</string>
+    <string name="fit_strategy_crop">Kes</string>
+    <string name="fit_strategy_stretch">Esnet</string>
+    <string name="fit_strategy_texture">Kaplama</string>
+</resources>

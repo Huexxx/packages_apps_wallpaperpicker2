@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fit_strategy">Modalità adattamento</string>
+    <string name="fit_strategy_as_previewed">Come anteprima</string>
+    <string name="fit_strategy_high_quality">Alta qualità</string>
+    <string name="fit_strategy_center">Centro</string>
+    <string name="fit_strategy_crop">Ritaglia</string>
+    <string name="fit_strategy_stretch">Allarga</string>
+    <string name="fit_strategy_texture">Trama</string>
+</resources>

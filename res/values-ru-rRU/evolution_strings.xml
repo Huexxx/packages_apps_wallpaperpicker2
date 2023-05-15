@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fit_strategy">Подходящая стратегия</string>
+    <string name="fit_strategy_as_previewed">По предпросмотру</string>
+    <string name="fit_strategy_high_quality">Высокое качество</string>
+    <string name="fit_strategy_center">По центру</string>
+    <string name="fit_strategy_crop">Обрезать</string>
+    <string name="fit_strategy_stretch">Растяжка</string>
+    <string name="fit_strategy_texture">Текстура</string>
+</resources>

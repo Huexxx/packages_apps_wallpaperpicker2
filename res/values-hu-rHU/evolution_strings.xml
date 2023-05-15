@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fit_strategy">Illesztési mód</string>
+    <string name="fit_strategy_as_previewed">Az előnézet szerint</string>
+    <string name="fit_strategy_high_quality">Kiváló minőségű</string>
+    <string name="fit_strategy_center">Középre</string>
+    <string name="fit_strategy_crop">Körbevágott</string>
+    <string name="fit_strategy_stretch">Széthúzott</string>
+    <string name="fit_strategy_texture">Mintázatos</string>
+</resources>

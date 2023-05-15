@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fit_strategy">Стратегія</string>
+    <string name="fit_strategy_as_previewed">У попередньому перегляді</string>
+    <string name="fit_strategy_high_quality">Висока якість</string>
+    <string name="fit_strategy_center">По центру</string>
+    <string name="fit_strategy_crop">Кадрування</string>
+    <string name="fit_strategy_stretch">Розтягнути</string>
+    <string name="fit_strategy_texture">Текстура</string>
+</resources>

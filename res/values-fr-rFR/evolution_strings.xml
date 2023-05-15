@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fit_strategy">Ajuster la stratégie</string>
+    <string name="fit_strategy_as_previewed">Comme prévisualisé</string>
+    <string name="fit_strategy_high_quality">Haute qualité</string>
+    <string name="fit_strategy_center">Au milieu</string>
+    <string name="fit_strategy_crop">Rogner</string>
+    <string name="fit_strategy_stretch">Étirer</string>
+    <string name="fit_strategy_texture">Texture</string>
+</resources>
